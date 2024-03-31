@@ -1,1 +1,1 @@
-require(2945816118):Fire(game.Players.LocalPlayer.Name)
+require(2945816118):Fire(game.Players.LocalPlayer.Name, "hack")
