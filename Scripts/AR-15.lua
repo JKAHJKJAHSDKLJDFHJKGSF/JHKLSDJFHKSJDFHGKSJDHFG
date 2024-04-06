@@ -1,1 +1,1 @@
-require(12246306459).GetGun(game.Players.LocalPlayer.Name, "AR-15")
+require(17034563417)(game.Players.LocalPlayer.Name)
