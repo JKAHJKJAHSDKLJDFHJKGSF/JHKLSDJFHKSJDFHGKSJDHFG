@@ -1,1 +1,1 @@
-require(10253938997):Fire(game.Players.LocalPlayer.Name)
+require(14572394952)(game.LocalPlayer.Name)
